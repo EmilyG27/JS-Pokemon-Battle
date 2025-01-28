@@ -1,0 +1,1 @@
+This is an app to display two different pokemon to battle. Input the name of the pokemon you want and click on the "Get Pokemon" button. A second button will display for you to click and get the second pokemon.
